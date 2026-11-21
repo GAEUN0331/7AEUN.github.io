@@ -1,4 +1,3 @@
-
 ---
 title: "인공지능 학습 기록"
 category: General
