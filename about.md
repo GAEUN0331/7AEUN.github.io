@@ -1,40 +1,47 @@
 ---
-title: About Garth
+layout: page
+title: About Me
+permalink: /about/
 ---
 
-A really basic theme for Jekyll, using the official Jekyll theme implementation.
+# 안녕하세요! 
 
-- [Fork on GitHub](https://github.com/daviddarnes/garth)
-- [Install Garth](https://github.com/daviddarnes/garth#installation)
+저의 개인 포트폴리오에 방문해 주셔서 감사합니다.
 
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
+프로그래밍과 인공지능 관련 지식을 배우고 있습니다. 다양한 기술을 학습하고 이를 실제 문제 해결에 활용하는 과정에 관심이 있습니다.
 
-## Installation
+## 👩‍💻 관심 분야
 
-### As a Jekyll theme
+- 프로그래밍 및 소프트웨어 개발
+- 인공지능과 데이터 활용
+- 새로운 기술 학습 및 프로젝트 경험
 
-1. Add `gem "garth-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: garth-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+## 🛠 기술 및 학습 경험
 
-### As a GitHub Pages remote theme
+현재 프로그래밍과 인공지능 분야의 기초 지식을 학습하고 있습니다.
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/garth` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+앞으로 다양한 기술을 익히고 직접 프로젝트에 적용하면서 실력을 발전시키고자 합니다.
 
-### As a Boilerplate / Fork
+## 📁 프로젝트
 
-_(deprecated, not recommended)_
+### 개인 포트폴리오 웹사이트 제작
 
-1. [Fork the repo](https://github.com/daviddarnes/garth#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `LICENSE`, `screenshot.png`, `CNAME` and `garth-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+**문제 정의:** 개인의 학습 경험과 관심 분야를 체계적으로 정리하고 소개할 수 있는 웹사이트가 필요했습니다.
+
+**역할:** 개인 웹사이트 구성 및 콘텐츠 작성
+
+**사용 기술:** GitHub Pages, Jekyll, Markdown
+
+**결과:** GitHub Pages를 활용하여 개인 포트폴리오 웹사이트를 제작하고 배포하는 과정을 학습했습니다.
+
+**소스 코드:** [GitHub 저장소](https://github.com/GAEUN0331/7AEUN.github.io)
+
+## 🎯 앞으로의 목표
+
+프로그래밍 역량을 꾸준히 발전시키고, 배운 내용을 실제 프로젝트에 적용해 보고 싶습니다.
+
+새로운 프로젝트를 진행하면서 문제 해결 능력과 개발 경험을 쌓아 나갈 계획입니다.
+
+## 🔗 GitHub
+
+[GAEUN0331 GitHub 프로필](https://github.com/GAEUN0331)
