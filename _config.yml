@@ -39,8 +39,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "This is merely a demo, find out more [about Garth](about)" # The post list page content
-
+    description: "프로그래밍과 인공지능을 공부하며 학습 경험과 프로젝트를 기록하는 포트폴리오입니다."
 # 6. Jekyll collections settings
 defaults:
   -
