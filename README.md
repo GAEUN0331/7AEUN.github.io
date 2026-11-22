@@ -18,8 +18,13 @@
 
 [GAEUN0331](https://github.com/GAEUN0331)
 
+## 이력서
+
+[이력서 PDF 다운로드](https://gaeun0331.github.io/7AEUN.github.io/이력서.pdf)
 ---
 
 이 포트폴리오는 Garth Jekyll 테마를 기반으로 제작되었습니다.
 
 - 원본 테마: [Garth](https://github.com/daviddarnes/garth)
+
+
