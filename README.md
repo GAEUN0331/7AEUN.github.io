@@ -12,7 +12,7 @@
 
 ## 포트폴리오 바로가기
 
-[포트폴리오 웹사이트 방문하기](https://gaeun0331.github.io/7AEUN.github.io/)
+[포트폴리오 웹사이트 방문하기](https://gaeun0331.github.io/7AEUN.github.io/about/)
 
 ## GitHub
 
