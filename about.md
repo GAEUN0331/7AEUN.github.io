@@ -43,3 +43,8 @@ permalink: /about/
 ## 🔗 GitHub
 
 [GAEUN0331 GitHub 프로필](https://github.com/GAEUN0331)
+
+
+## 📄 이력서
+
+[이력서 PDF 다운로드]({{ '/이력서.pdf' | relative_url }})
