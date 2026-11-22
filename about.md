@@ -22,15 +22,8 @@ permalink: /about/
 
 ## 📁 프로젝트
 
-### 개인 포트폴리오 웹사이트 제작
 
-**문제 정의:** 개인의 학습 경험과 관심 분야를 체계적으로 정리하고 소개할 수 있는 웹사이트가 필요했습니다.
 
-**역할:** 개인 웹사이트 구성 및 콘텐츠 작성
-
-**사용 기술:** GitHub Pages, Jekyll, Markdown
-
-**결과:** GitHub Pages를 활용하여 개인 포트폴리오 웹사이트를 제작하고 배포하는 과정을 학습했습니다.
 
 **소스 코드:** [GitHub 저장소](https://github.com/GAEUN0331/7AEUN.github.io)
 
